@@ -1,0 +1,11 @@
+require 'sinatra'
+require "sinatra/base"
+require 'json'
+require 'mongoid'
+require 'dotenv/load'
+require 'jwt'
+require 'date'
+require 'sinatra/mapping'
+require 'rack/mount'
+require 'sinatra/reloader'
+#require 'sinatra/mongoid'

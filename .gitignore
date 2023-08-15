@@ -1,0 +1,4 @@
+.env
+try.rb
+/config/
+Gemfile.lock

@@ -1,0 +1,5 @@
+## Ruby Sinatra
+
+# Run the server
+$ rackup -s thin -p 4567
+

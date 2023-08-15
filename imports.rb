@@ -1,0 +1,5 @@
+require_relative './app.router'
+#require_relative './user/user.index'
+#require_relative './blog/blog.index'
+#require_relative './share/share.index'
+require_relative './db.config'
